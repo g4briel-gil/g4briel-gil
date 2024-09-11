@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Gabriel
+- 👀 I’m interested in programming, travelling, automotive and sports
+- 🌱 I’m currently learning programming in high school
